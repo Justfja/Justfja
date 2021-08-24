@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Justfja
+- 👋 Hi, Justfja is here!
 - 👀 I’m interested in Data Analytics, Business Analytics / Intelligence, Machine Learning, Data Governance, Data & AI Strategy, Data Privacy Audit and Implementation, Data Literacy.
 I have a good understanding and hands-on experience in Data Science and BI tools (R, Python, SQL, Microsoft Power BI, Tableau, Excel etc.)
 - 🌱 I’m currently learning how to use Google Cloud and improving my python programming for AI skills
